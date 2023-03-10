@@ -1,6 +1,6 @@
 import random
 
-def simple_fill_descending(n):
+def simple_fill(n):
     ints = []
     for i in range(1, n + 1):
         ints.append(i)
