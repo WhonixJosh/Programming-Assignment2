@@ -38,3 +38,7 @@ HayesSort doesn't work on arrays with duplicate elements as the second for loop 
 ### 5. Runtime Comparision
 
 I suspect HayesSort has the same worst case efficiency in the worst case if every element of j i in the array of A the runtime is of O(n^2). This places it in the same worst runtime of bubble and selection sort.
+
+### 6. Conclusion
+
+The results from the test actually confirm the opposite of my hypothesis. Hayes Sort was considerably faster than bunble/selection sort. Despite the same worst-case complexities Hayes Sort outperormed them each time.
